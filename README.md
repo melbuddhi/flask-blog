@@ -5,8 +5,8 @@ This project, in a basic manner, helps users create accounts, write posts and vi
 
 Major components:
 
-Web
-Database
-Python-Flask Interface
+1. Web
+2. Database
+3. Python-Flask Interface
 
 SInce this is a basic blog deployment, these are the major components of this project. 
